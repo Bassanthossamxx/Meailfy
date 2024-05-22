@@ -1,4 +1,4 @@
 # Meailfy
 responsive website for resturant Using HTML and CSS
 lik of website :
-https://astounding-cupcake-bcbc76.netlify.app/
+https://meailfy.netlify.app/
